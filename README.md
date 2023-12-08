@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdelilah Elgharbaoui</h1>
 <div align="center"><img alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></div>
 
-<h3 align="center">A passionate Full Stack developer from Morocco</h3>
+<h3 align="center">A passionate software engineering student from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelilahelgharbaoui&label=Profile%20views&color=0e75b6&style=flat" alt="abdelilahelgharbaoui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelilahelgharbaoui" alt="abdelilahelgharbaoui" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelil02256098" target="blank"><img src="https://img.shields.io/twitter/follow/abdelil02256098?logo=twitter&style=for-the-badge" alt="abdelil02256098" /></a> </p>
 
-- 🌱 I’m currently learning **Django and Flutter**
+- 🌱 I’m currently learning **Springboot and Angular**
 
 - 📫 How to reach me **a.elgharbaoui1@gmail.com**
 
